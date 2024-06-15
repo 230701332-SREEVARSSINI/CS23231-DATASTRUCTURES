@@ -1,4 +1,8 @@
+NAME: Sree Varssini K S  
+REGISTER NO.:230701332
 
+EX-15: Implementation of Collision Resolution Techniques
+       (ii) Closed Addressing 
 
 #include <stdio.h>
 #include <stdlib.h>
